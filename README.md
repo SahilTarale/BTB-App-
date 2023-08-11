@@ -38,7 +38,7 @@ The BTB application is a comprehensive and efficient application designed to sim
 
  ### Register Page 
  
- <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Register.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Register.jpg?raw=true" width="700">
 
  ### RoomForm page
  
