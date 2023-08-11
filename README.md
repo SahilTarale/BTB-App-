@@ -18,29 +18,29 @@ The BTB application is a comprehensive and efficient application designed to sim
 
 ## ScreenShot
  ### Home page
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Homep1.png?raw=true" width="700"> 
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Homep2.png?raw=true" width="700"> 
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Homep3.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Homep1.png" width="700"> 
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Homep2.png?raw=true" width="700"> 
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Homep3.png?raw=true" width="700">
 
  ### PropertyList page
  
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/propertyList.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/propertyList.png?raw=true" width="700">
 
  ### RoomDetails page 
  
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Roomp1.png?raw=true" width="700"> 
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Roomp2.png?raw=true" width="700"> 
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/RoomPhotos.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Roomp1.png?raw=true" width="700"> 
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Roomp2.png?raw=true" width="700"> 
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/RoomPhotos.png?raw=true" width="700">
 
  ### Login Page 
  
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Login.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Login.png?raw=true" width="700">
 
  ### Register Page 
  
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/Register.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/Register.png?raw=true" width="700">
 
  ### RoomForm page
  
- <img src="https://github.com/SahilTarale/BTB-project/blob/master/Output/roomForm.png?raw=true" width="700">
+ <img src="https://github.com/SahilTarale/BTB-App-/blob/master/outputs/roomForm.png?raw=true" width="700">
  
