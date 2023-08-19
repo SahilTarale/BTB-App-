@@ -12,8 +12,8 @@ The BTB application is a comprehensive and efficient application designed to sim
      
 ## Technology Used 
 
-   - Front-end : HTML, CSS, JavaScript,React.js
-   - Back-end : Node.js, EJS
+   - Front-end : React.js, HTML, CSS, JavaScript
+   - Back-end : Node.js, Express.js
    - Database : MongoDB 
 
 ## ScreenShot
